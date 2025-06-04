@@ -1,4 +1,4 @@
-[![Oleh's GitHub stats](https://github-readme-stats.vercel.app/api?username=exsesx&count_private=true&&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Oleh's GitHub stats](https://github-readme-stats.vercel.app/api?username=exsesx&count_private=true&show_icons=true&theme=transparent&hide_title=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
